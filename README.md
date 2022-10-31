@@ -32,6 +32,6 @@ Now, I need to produce a time series model that analyses and forecasts patterns 
 * Set up the Google Search data for a Prophet forecasting model.
 * After estimating the model, plot the forecast.
 * Plotted the individual time series components of the model to answer the following questions:
-** What time of day exhibits the greatest popularity?
-** Which day of the week gets the most search traffic?
-** What's the lowest point for search traffic in the calendar year?
+    ** What time of day exhibits the greatest popularity?
+    ** Which day of the week gets the most search traffic?
+    ** What's the lowest point for search traffic in the calendar year?
