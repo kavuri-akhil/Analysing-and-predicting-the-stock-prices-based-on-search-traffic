@@ -29,9 +29,9 @@ The steps followed are as follows:
 ** “Hourly Stock Return”, which holds the percentage of change in the company stock price on an hourly basis.
 ### Created a Time Series Model by Using Prophet.
 Now, I need to produce a time series model that analyses and forecasts patterns in the hourly search data which was acheived using the below steps:
-* Set up the Google Search data for a Prophet forecasting model.
-* After estimating the model, plot the forecast.
-* Plotted the individual time series components of the model to answer the following questions:
-    ** What time of day exhibits the greatest popularity?
-    ** Which day of the week gets the most search traffic?
-    ** What's the lowest point for search traffic in the calendar year?
+Markup :* Set up the Google Search data for a Prophet forecasting model.
+        * After estimating the model, plot the forecast.
+        * Plotted the individual time series components of the model to answer the following questions:
+            ** What time of day exhibits the greatest popularity?
+            ** Which day of the week gets the most search traffic?
+            ** What's the lowest point for search traffic in the calendar year?
